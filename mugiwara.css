@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Agbalumo&family=Montserrat:wght@900&family=Poppins:wght@100;400&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Agbalumo&family=DM+Serif+Display&family=Montserrat:wght@900&family=Poppins:wght@100;400&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Agbalumo&family=DM+Serif+Display&family=Lilita+One&family=Montserrat:wght@900&family=Poppins:wght@100;400&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+
+body{
+  background-color: #f1bf68;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  padding: 2% 0% 2% 10%;
+  font-family: ;
+}
+.main{
+  display: flex;
+  
+}
+.nav{
+  text-decoration: none;
+  list-style-type: none;
+  display: inline;
+  padding: 0% 3% 3% 3%;
+  font-family:"Lilita One", sans-serif ;
+  transition: 0.25s;
+}
+.nav:hover{
+  font-size: 1.5em;
+  cursor: pointer;
+}
+.nav-bar{
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+.left{
+  max-width: 40%;
+  padding-top: 5%;
+}
+.about-straw-hats{
+  padding: 0% 3% 0% 3%;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.about-heading{
+  padding: 0% 3% 0% 3%;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: underline;
+  color: black;
+}
+.right  {
+  padding-top: 2%;
+  width: 60%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image{
+  width: 60%;
+  padding-top: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+}
+.strawhats{
+  width: 95%;
+}
+.jollyroger{
+  padding-top: 2%;
+}
